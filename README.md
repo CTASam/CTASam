@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sam
+### Hey, I'm Example Examplesson!
 
 Working on ExampleProject3.<br/>
 Creator of ExampleProject1.<br/>
